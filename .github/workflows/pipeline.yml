@@ -16,3 +16,4 @@ jobs:
           github_token: ${{ secrets.ACCESS_TOKEN}}
           publish_dir: ./application
           publish_branch: gh-pages
+
